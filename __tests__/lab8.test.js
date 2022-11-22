@@ -36,7 +36,7 @@ describe('Basic user flow for Website', () => {
       // Expect allArePopulated to still be true
       expect(allArePopulated).toBe(true);
     }
-    // TODO - Step 1
+    // TODO - Step 1 [DONE]
     // Right now this function is only checking the first <product-item> it found, make it so that
     // it checks every <product-item> it found
 
